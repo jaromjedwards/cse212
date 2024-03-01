@@ -1,0 +1,15 @@
+/Users/jaromedwards/Desktop/cse212/week01/analyze/bin/Debug/net8.0/analyze
+/Users/jaromedwards/Desktop/cse212/week01/analyze/bin/Debug/net8.0/analyze.deps.json
+/Users/jaromedwards/Desktop/cse212/week01/analyze/bin/Debug/net8.0/analyze.runtimeconfig.json
+/Users/jaromedwards/Desktop/cse212/week01/analyze/bin/Debug/net8.0/analyze.dll
+/Users/jaromedwards/Desktop/cse212/week01/analyze/bin/Debug/net8.0/analyze.pdb
+/Users/jaromedwards/Desktop/cse212/week01/analyze/obj/Debug/net8.0/analyze.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaromedwards/Desktop/cse212/week01/analyze/obj/Debug/net8.0/analyze.AssemblyInfoInputs.cache
+/Users/jaromedwards/Desktop/cse212/week01/analyze/obj/Debug/net8.0/analyze.AssemblyInfo.cs
+/Users/jaromedwards/Desktop/cse212/week01/analyze/obj/Debug/net8.0/analyze.csproj.CoreCompileInputs.cache
+/Users/jaromedwards/Desktop/cse212/week01/analyze/obj/Debug/net8.0/analyze.sourcelink.json
+/Users/jaromedwards/Desktop/cse212/week01/analyze/obj/Debug/net8.0/analyze.dll
+/Users/jaromedwards/Desktop/cse212/week01/analyze/obj/Debug/net8.0/refint/analyze.dll
+/Users/jaromedwards/Desktop/cse212/week01/analyze/obj/Debug/net8.0/analyze.pdb
+/Users/jaromedwards/Desktop/cse212/week01/analyze/obj/Debug/net8.0/analyze.genruntimeconfig.cache
+/Users/jaromedwards/Desktop/cse212/week01/analyze/obj/Debug/net8.0/ref/analyze.dll

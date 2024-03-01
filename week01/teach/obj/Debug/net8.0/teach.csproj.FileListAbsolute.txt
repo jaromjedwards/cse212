@@ -1,0 +1,15 @@
+/Users/jaromedwards/Desktop/cse212/week01/teach/bin/Debug/net8.0/teach
+/Users/jaromedwards/Desktop/cse212/week01/teach/bin/Debug/net8.0/teach.deps.json
+/Users/jaromedwards/Desktop/cse212/week01/teach/bin/Debug/net8.0/teach.runtimeconfig.json
+/Users/jaromedwards/Desktop/cse212/week01/teach/bin/Debug/net8.0/teach.dll
+/Users/jaromedwards/Desktop/cse212/week01/teach/bin/Debug/net8.0/teach.pdb
+/Users/jaromedwards/Desktop/cse212/week01/teach/obj/Debug/net8.0/teach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaromedwards/Desktop/cse212/week01/teach/obj/Debug/net8.0/teach.AssemblyInfoInputs.cache
+/Users/jaromedwards/Desktop/cse212/week01/teach/obj/Debug/net8.0/teach.AssemblyInfo.cs
+/Users/jaromedwards/Desktop/cse212/week01/teach/obj/Debug/net8.0/teach.csproj.CoreCompileInputs.cache
+/Users/jaromedwards/Desktop/cse212/week01/teach/obj/Debug/net8.0/teach.sourcelink.json
+/Users/jaromedwards/Desktop/cse212/week01/teach/obj/Debug/net8.0/teach.dll
+/Users/jaromedwards/Desktop/cse212/week01/teach/obj/Debug/net8.0/refint/teach.dll
+/Users/jaromedwards/Desktop/cse212/week01/teach/obj/Debug/net8.0/teach.pdb
+/Users/jaromedwards/Desktop/cse212/week01/teach/obj/Debug/net8.0/teach.genruntimeconfig.cache
+/Users/jaromedwards/Desktop/cse212/week01/teach/obj/Debug/net8.0/ref/teach.dll

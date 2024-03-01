@@ -9,6 +9,14 @@
  * to post it online.  Storage into a personal and private repository (e.g. private
  * GitHub repository, unshared Google Drive folder) is acceptable.
  *
+
+// response : predict the performance of each function -> 
+    SearchSorted1: O(n)
+    SearchSorted2: O(n^2)
+    Actual:
+    SearchSorted1: O(n) - because it itterates through the size of the array
+    SearchSoreted2: O(log n) - because it divides the space in half evvery time. Fast
+
  */
 public static class Search {
     public static void Run() {
