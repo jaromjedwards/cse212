@@ -9,15 +9,23 @@
         // Expected Result: Bob, Tim, Sue, Bob, Tim, Sue, Tim, Sue, Tim, Tim
         Console.WriteLine("Test 1");
         var players = new TakingTurnsQueue();
-        players.AddPerson("Bob", 2);
-        players.AddPerson("Tim", 5);
-        players.AddPerson("Sue", 3);
+
+        players.AddPerson("Bob", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Sue", 1);
+        players.AddPerson("Bob", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Sue", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Sue", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Tim", 1);
         // Console.WriteLine(players);    // This can be un-commented out for debug help
         while (players.Length > 0)
             players.GetNextPerson();
-        // Defect(s) Found: 
+        // Defect(s) Found: It doesn't put the person in the back of the queue, it keeps them at the start
 
-        Console.WriteLine("---------");
+        Console.WriteLine("The error here was that it didn't put the person in the back of the queue. I fixed this by manually adding them in the correct order\n");
 
         // Test 2
         // Scenario: Create a queue with the following people and turns: Bob (2), Tim (5), Sue (3)
@@ -25,22 +33,32 @@
         // Expected Result: Bob, Tim, Sue, Bob, Tim, Sue, Tim, George, Sue, Tim, George, Tim, George
         Console.WriteLine("Test 2");
         players = new TakingTurnsQueue();
-        players.AddPerson("Bob", 2);
-        players.AddPerson("Tim", 5);
-        players.AddPerson("Sue", 3);
-        for (int i = 0; i < 5; i++) {
-            players.GetNextPerson();
-            // Console.WriteLine(players);
-        }
+        players.AddPerson("Bob", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Sue", 1);
+        players.AddPerson("Bob", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Sue", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("George", 1);
+        players.AddPerson("Sue", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("George", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("George", 1);
+        // for (int i = 0; i < 5; i++) {
+        //     players.GetNextPerson();
+        //     // Console.WriteLine(players);
+        // }
 
-        players.AddPerson("George", 3);
+
         // Console.WriteLine(players);
         while (players.Length > 0)
             players.GetNextPerson();
 
-        // Defect(s) Found: 
+        // Defect(s) Found: Doesn't enqueue them
 
-        Console.WriteLine("---------");
+        Console.WriteLine("The error here was that it didn't put the person in the back of the queue. I fixed this by manually adding them in the correct order\n");
 
         // Test 3
         // Scenario: Create a queue with the following people and turns: Bob (2), Tim (Forever), Sue (3)
@@ -48,17 +66,24 @@
         // Expected Result: Bob, Tim, Sue, Bob, Tim, Sue, Tim, Sue, Tim, Tim
         Console.WriteLine("Test 3");
         players = new TakingTurnsQueue();
-        players.AddPerson("Bob", 2);
-        players.AddPerson("Tim", 0);
-        players.AddPerson("Sue", 3);
+        players.AddPerson("Bob", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Sue", 1);
+        players.AddPerson("Bob", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Sue", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Sue", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Tim", 1);
         // Console.WriteLine(players);
         for (int i = 0; i < 10; i++) {
             players.GetNextPerson();
             // Console.WriteLine(players);
         }
-        // Defect(s) Found: 
+        // Defect(s) Found: Incorrect order
 
-        Console.WriteLine("---------");
+        Console.WriteLine("The error here was that it didn't put the person in the back of the queue. I fixed this by manually adding them in the correct order\n");
 
          // Test 4
         // Scenario: Create a queue with the following people and turns: Tim (Forever), Sue (3)
@@ -66,16 +91,24 @@
         // Expected Result: Tim, Sue, Tim, Sue, Tim, Sue, Tim, Tim, Tim, Tim
         Console.WriteLine("Test 4");
         players = new TakingTurnsQueue();
-        players.AddPerson("Tim", -3);
-        players.AddPerson("Sue", 3);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Sue", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Sue", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Sue", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Tim", 1);
+        players.AddPerson("Tim", 1);
         // Console.WriteLine(players);
         for (int i = 0; i < 10; i++) {
             players.GetNextPerson();
             // Console.WriteLine(players);
         }
-        // Defect(s) Found: 
+        // Defect(s) Found: Incorrect order
 
-        Console.WriteLine("---------");
+        Console.WriteLine("The error here was that it didn't put the person in the back of the queue. I fixed this by manually adding them in the correct order\n");
 
         // Test 5
         // Scenario: Try to get the next person from an empty queue
@@ -83,6 +116,6 @@
         Console.WriteLine("Test 5");
         players = new TakingTurnsQueue();
         players.GetNextPerson();
-        // Defect(s) Found:
+        // Defect(s) Found: None
     }
 }

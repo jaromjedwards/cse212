@@ -1,0 +1,15 @@
+/Users/jaromedwards/Desktop/cse212/week02/code/bin/Debug/net8.0/code
+/Users/jaromedwards/Desktop/cse212/week02/code/bin/Debug/net8.0/code.deps.json
+/Users/jaromedwards/Desktop/cse212/week02/code/bin/Debug/net8.0/code.runtimeconfig.json
+/Users/jaromedwards/Desktop/cse212/week02/code/bin/Debug/net8.0/code.dll
+/Users/jaromedwards/Desktop/cse212/week02/code/bin/Debug/net8.0/code.pdb
+/Users/jaromedwards/Desktop/cse212/week02/code/obj/Debug/net8.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaromedwards/Desktop/cse212/week02/code/obj/Debug/net8.0/code.AssemblyInfoInputs.cache
+/Users/jaromedwards/Desktop/cse212/week02/code/obj/Debug/net8.0/code.AssemblyInfo.cs
+/Users/jaromedwards/Desktop/cse212/week02/code/obj/Debug/net8.0/code.csproj.CoreCompileInputs.cache
+/Users/jaromedwards/Desktop/cse212/week02/code/obj/Debug/net8.0/code.sourcelink.json
+/Users/jaromedwards/Desktop/cse212/week02/code/obj/Debug/net8.0/code.dll
+/Users/jaromedwards/Desktop/cse212/week02/code/obj/Debug/net8.0/refint/code.dll
+/Users/jaromedwards/Desktop/cse212/week02/code/obj/Debug/net8.0/code.pdb
+/Users/jaromedwards/Desktop/cse212/week02/code/obj/Debug/net8.0/code.genruntimeconfig.cache
+/Users/jaromedwards/Desktop/cse212/week02/code/obj/Debug/net8.0/ref/code.dll

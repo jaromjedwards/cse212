@@ -22,3 +22,12 @@
         return stack.Count == 0;
     }
 }
+
+// (a == 3 or (b == 5 and c == 6))
+// (, (  stack.Count = 2 
+// true
+
+// (students]i].Grade > 80 and students[i].Grade < 90)
+// false
+
+// ([](()([()]) ([]))

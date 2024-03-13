@@ -1,0 +1,15 @@
+/Users/jaromedwards/Desktop/cse212/week03/learn/bin/Debug/net8.0/learn
+/Users/jaromedwards/Desktop/cse212/week03/learn/bin/Debug/net8.0/learn.deps.json
+/Users/jaromedwards/Desktop/cse212/week03/learn/bin/Debug/net8.0/learn.runtimeconfig.json
+/Users/jaromedwards/Desktop/cse212/week03/learn/bin/Debug/net8.0/learn.dll
+/Users/jaromedwards/Desktop/cse212/week03/learn/bin/Debug/net8.0/learn.pdb
+/Users/jaromedwards/Desktop/cse212/week03/learn/obj/Debug/net8.0/learn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaromedwards/Desktop/cse212/week03/learn/obj/Debug/net8.0/learn.AssemblyInfoInputs.cache
+/Users/jaromedwards/Desktop/cse212/week03/learn/obj/Debug/net8.0/learn.AssemblyInfo.cs
+/Users/jaromedwards/Desktop/cse212/week03/learn/obj/Debug/net8.0/learn.csproj.CoreCompileInputs.cache
+/Users/jaromedwards/Desktop/cse212/week03/learn/obj/Debug/net8.0/learn.sourcelink.json
+/Users/jaromedwards/Desktop/cse212/week03/learn/obj/Debug/net8.0/learn.dll
+/Users/jaromedwards/Desktop/cse212/week03/learn/obj/Debug/net8.0/refint/learn.dll
+/Users/jaromedwards/Desktop/cse212/week03/learn/obj/Debug/net8.0/learn.pdb
+/Users/jaromedwards/Desktop/cse212/week03/learn/obj/Debug/net8.0/learn.genruntimeconfig.cache
+/Users/jaromedwards/Desktop/cse212/week03/learn/obj/Debug/net8.0/ref/learn.dll
